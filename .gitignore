@@ -1,0 +1,26 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Raw dataset
+data/raw/
+
+# MLflow temporary files
+mlruns/
+
+# Git and editor files
+.git/
+.vscode/
+mlflow.db
+test_patient.json
